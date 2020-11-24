@@ -1,5 +1,5 @@
-# Synaptic-Plasticity____STD____WB
-Synaptic Plasticity for Short-Term Depression with Wang-Buzsaki model  for one neuron of post-synaptic 
+# Synaptic Plasticity for TSD with WB & RTM model
+Synaptic Plasticity for Short-Term Depression(TSD) with Wang-Buzsaki(WB) and Reduced Traub-Miles(RTM) model  for one neuron of post-synaptic 
 
 
 ## An Introduction to Modeling Neuronal Dynamics Christoph Börgers
