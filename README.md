@@ -13,6 +13,12 @@ An extensive online collection of Matlab programs generating the figures accompa
 https://link.springer.com/book/10.1007/978-3-319-51171-9
 
 
+<p align="center">
+ <img src="https://github.com/aliseif321/Synaptic-Plasticity____STD____WB/blob/main/Pictures/fig.png" width="840" height="600">
+ </p>
+
+
+
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/aliseif321/Synaptic-Plasticity____STD____WB/main/Pictures/STD_WB%26RTM.png" width="840" height="600">
